@@ -3,6 +3,12 @@
 
 #include <stddef.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <limits.h>
+#include <unistd.h>
+
 
 /* ---STRUCTURES--- */
 
